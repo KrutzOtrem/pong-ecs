@@ -1,6 +1,6 @@
 # Pong (ECS)
 
-I wrote a Pong remake in LÖVE using an Entity Component System. The LOC is roughly equivalent to a typical OOP implementation, and it could serve as an example.
+I wrote a Pong remake in LÖVE using an Entity Component System. The LOC is roughly equivalent to a typical OOP implementation (if you ignore the library), and it could serve as an example.
 
 ## Controls
 - **W/S** — move paddle
