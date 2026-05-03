@@ -4,7 +4,7 @@ return {
 		self.world = dream.world()
 		self.world:setResource('input', input)
 
-		-- Add project systems here. `move` is generic enough to keep as a starter.
+		-- Add project systems here.
 		self.world:addSystems(
 			Systems.control,
 			Systems.ai,
